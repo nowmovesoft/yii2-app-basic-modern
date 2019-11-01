@@ -13,9 +13,19 @@ The template contains the basic features including user login/logout and a conta
 It includes all commonly used configurations that would allow you to focus on adding new
 features to your application.
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
-[![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
-[![Build Status](https://travis-ci.org/yiisoft/yii2-app-basic.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-app-basic)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nowmovesoft/yii2-app-basic-modern)](https://packagist.org/packages/nowmovesoft/yii2-app-basic-modern)
+[![Total Downloads](https://img.shields.io/github/downloads/nowmovesoft/yii2-app-basic-modern/total)](https://packagist.org/packages/nowmovesoft/yii2-app-basic-modern)
+
+Compatible
+----------
+
+- PHP 7.2 or later
+- PHPUnit 8.4
+- Codeception 3.1
+- Selenium 3.141.59
+- Twitter Bootstrap 4
+- Docker 18.06 or later
+
 
 DIRECTORY STRUCTURE
 -------------------
